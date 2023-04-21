@@ -1,6 +1,6 @@
- 👋 Hi, I’m @its-prakhar-sharma<br>
- 👀 I’m interested in Web-Dev and Blockchain development<br>
- 🌱 I’m a Full-Stack Web Developer have experience working on MERN stack, nextjs and laravel <br>
+## 👋 Hi, I’m Prakhar Sharma<br>
+## 👀 I’m a Web-Dev and interested in latest technologies like Blockchain development<br>
+## 🌱 Have experience working on MERN stack, nextjs and laravel <br>
  
 
 
